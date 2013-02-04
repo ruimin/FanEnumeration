@@ -1,8 +1,16 @@
 FanEnumeration
 ==============
 
-rigidity theory-fan enumeration
+This is an implementation of the algorithm of enumerating all k-fans from the rigidity theory.
+If you want to learn more about the ridity theory, I recommend to read a brief overview by Gao Jie 
+at www.cs.sunysb.edu/~jgao/CSE590-fall05/notes/lecture3.pdf
 
+If you want to know more about the k-fans, Professor Whiteley has published many great papers on the topic of rigidity theory.
+http://www.math.yorku.ca/Who/Faculty/Whiteley/menu.html
+
+
+
+================
 Open a terminal window
 
 use the cd command to navigate to the correct directory under "/FindingAllPerfectMatchings/bin"
